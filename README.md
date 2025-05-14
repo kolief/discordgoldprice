@@ -2,6 +2,10 @@
 
 This Python script scrapes OSRS gold prices from `merchants.to` & `eldorado.gg` API endpoints and posts them to a Discord webhook. It is designed to be run in a Docker container.
 
+Here is an example:
+
+![alt text](https://github.com/kolief/discordgoldprice/blob/main/example.png)
+
 ## Prerequisites
 
 *   Docker installed on your system.
